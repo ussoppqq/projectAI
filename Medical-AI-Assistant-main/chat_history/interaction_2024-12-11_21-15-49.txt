@@ -1,0 +1,16 @@
+User Input:
+i got pain in my head
+
+Response:
+I understand you're experiencing a headache while considering the topic of Health Informatics.  That's understandable; the field can be complex!  However, I can't diagnose medical conditions.  A headache can have many causes, from stress to dehydration to more serious issues.
+
+**If your headache is severe, persistent, or accompanied by other symptoms (like fever, stiff neck, vision changes, or numbness), you should seek medical attention immediately.**  Don't hesitate to contact a doctor or go to an urgent care facility.
+
+If it's a mild headache, here are some things you can try:
+
+* **Rest:** Find a quiet, dark place to lie down.
+* **Hydration:** Drink plenty of water. Dehydration is a common headache trigger.
+* **Over-the-counter pain relief:** Try ibuprofen or acetaminophen (always follow dosage instructions).
+* **Stress reduction:** Practice relaxation techniques like deep breathing or meditation.
+
+Remember, I am an AI and cannot provide medical advice.  Your health is important, so please prioritize getting appropriate medical care if needed.

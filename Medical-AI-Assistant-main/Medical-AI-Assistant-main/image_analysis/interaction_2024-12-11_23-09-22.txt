@@ -1,0 +1,6 @@
+User Input:
+Analysis Type: xray_description
+Custom Prompt: 
+
+Response:
+This is not an X-ray image.  It is a photograph of a person.  Therefore, a radiological report is not applicable.  A radiological report requires an actual medical image to analyze.

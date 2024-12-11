@@ -1,0 +1,88 @@
+User Input:
+Search By: generic, Name: ibuprofen, Country: United States
+
+Response:
+**Ibuprofen (Generic Name) in the United States**
+
+**1. Indications:**
+
+Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce fever and relieve mild to moderate pain.  Its uses include:
+
+* Pain relief from headaches, muscle aches, backaches, toothaches, menstrual cramps, and the common cold.
+* Reduction of fever.
+* Treatment of inflammation associated with various conditions.
+
+
+**2. Pharmacology:**
+
+Ibuprofen inhibits the production of prostaglandins, hormones that play a significant role in inflammation, pain, and fever.  By reducing prostaglandin production, ibuprofen reduces inflammation, pain, and fever.
+
+
+**3. Dosage & Administration:**
+
+Dosage varies depending on the indication, age, and weight.  Always follow the instructions on the label or as directed by a healthcare professional.  **Never exceed the recommended dose.**
+
+* **Adults:**  The usual dose is 200-400 mg every 4-6 hours, not exceeding 1200 mg per day.  Higher doses may be prescribed by a doctor for specific conditions.
+* **Children:** Dosage for children depends on weight and age.  Always consult a pediatrician or follow the specific instructions on children's formulations.  Liquid ibuprofen formulations are generally preferred for children.
+
+
+**4. Interactions:**
+
+Ibuprofen can interact with several medications and substances, including:
+
+* **Other NSAIDs:** Taking ibuprofen with other NSAIDs (e.g., naproxen, aspirin) increases the risk of side effects.
+* **Blood thinners (anticoagulants):** Ibuprofen can increase the risk of bleeding.
+* **ACE inhibitors and beta-blockers:** Ibuprofen may reduce the effectiveness of these medications.
+* **Lithium:** Ibuprofen can increase lithium levels in the blood.
+* **Corticosteroids:** Increased risk of gastrointestinal bleeding.
+* **Alcohol:** Increased risk of gastrointestinal bleeding and ulcers.
+
+
+**5. Side Effects:**
+
+Common side effects:
+
+* Stomach upset (indigestion, heartburn)
+* Nausea
+* Dizziness
+* Headache
+
+
+Serious side effects (though less common):
+
+* Allergic reactions (rash, itching, swelling, difficulty breathing)
+* Severe stomach pain or bleeding
+* Liver or kidney damage
+* High blood pressure
+* Heart problems (heart attack, stroke) – risk increases with long-term high-dose use.
+
+
+**6. Pregnancy & Lactation:**
+
+Ibuprofen should be avoided in the later stages of pregnancy (third trimester) due to potential risks to the fetus.  During the first and second trimesters, it should only be used if the benefits outweigh the risks, under the supervision of a doctor.  Small amounts of ibuprofen may pass into breast milk, but generally, the risk is considered low for breastfeeding infants. However, it is best to consult a healthcare professional before using ibuprofen while breastfeeding.
+
+
+**7. Precautions & Warnings:**
+
+* People with a history of stomach ulcers, bleeding disorders, heart disease, high blood pressure, kidney disease, or liver disease should use ibuprofen with caution or avoid it altogether.
+* Individuals allergic to aspirin or other NSAIDs may also be allergic to ibuprofen.
+* Elderly individuals are more susceptible to side effects.
+* Ibuprofen should not be given to children under 6 months old without consulting a doctor.
+
+
+**8. Overdose Effects:**
+
+Ibuprofen overdose can lead to nausea, vomiting, stomach pain, dizziness, drowsiness, and in severe cases, seizures, coma, and even death.  Seek immediate medical attention if an overdose is suspected.
+
+
+**9. Storage Conditions:**
+
+Store ibuprofen at room temperature, away from moisture and heat. Keep it out of reach of children.
+
+
+**10. Medicine Brand Names:**
+
+Many brand names exist; some common examples include Advil, Motrin, and others.  The specific brand names may vary depending on the formulation (e.g., tablets, capsules, liquid).
+
+
+**Disclaimer:** This information is for general knowledge and does not constitute medical advice.  Always consult a healthcare professional before starting any medication, including ibuprofen, especially if you have any underlying health conditions or are taking other medications.  This information should not be used to self-treat or diagnose any medical condition.

@@ -1,0 +1,6 @@
+User Input:
+Analysis Type: xray_description
+Custom Prompt: 
+
+Response:
+This is not an X-ray image.  It is a photograph of a person wearing a navy blue denim jacket.  Therefore, a radiological report cannot be generated.  A radiological report requires a medical image (like an X-ray, CT scan, MRI, or ultrasound) as input.

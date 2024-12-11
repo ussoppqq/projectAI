@@ -1,0 +1,88 @@
+User Input:
+Search By: generic, Name: ibuprofen, Country: United States
+
+Response:
+**1. Indications:**
+
+Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce fever and relieve mild to moderate pain.  Its uses include:
+
+* Relief of pain from headaches, menstrual cramps, muscle aches, backache, toothaches, and the common cold.
+* Reduction of fever.
+* Treatment of osteoarthritis, rheumatoid arthritis, and other inflammatory conditions (often at higher doses and under a doctor's supervision).
+
+
+**2. Pharmacology:**
+
+Ibuprofen works by inhibiting the production of prostaglandins, which are substances in the body that cause inflammation, pain, and fever.  It's thought to achieve this primarily by inhibiting cyclooxygenase (COX) enzymes, especially COX-1 and COX-2.
+
+
+**3. Dosage & Administration:**
+
+**Adults:** The usual adult dose is 200-400 mg every 4-6 hours as needed, not exceeding 1200 mg per day.  Always follow the directions on the label or as directed by a doctor or pharmacist.
+
+**Children:**  Dosage for children varies greatly based on weight and age.  **Never give ibuprofen to a child without first consulting a doctor or pharmacist.**  Overdosing in children can be particularly dangerous.  Liquid formulations are generally available for children.
+
+
+**4. Interaction:**
+
+Ibuprofen can interact with several medications and substances, including:
+
+* **Other NSAIDs:** Increased risk of bleeding and stomach ulcers.
+* **Blood thinners (e.g., warfarin):** Increased risk of bleeding.
+* **Aspirin:** Reduced effectiveness of aspirin.
+* **Lithium:** Increased lithium levels.
+* **ACE inhibitors and beta-blockers:** May reduce their effectiveness.
+* **Corticosteroids:** Increased risk of stomach ulcers and bleeding.
+* **Alcohol:** Increased risk of stomach irritation and bleeding.
+
+
+**5. Side Effects:**
+
+**Common side effects:**  Nausea, heartburn, stomach pain, diarrhea, constipation, dizziness, drowsiness.
+
+**Serious side effects:**  These are less common but require immediate medical attention.  They include:
+
+* Allergic reactions (rash, swelling, difficulty breathing)
+* Severe stomach pain
+* Bloody or black stools
+* Jaundice (yellowing of the skin or eyes)
+* Vision changes
+* Hearing loss
+* High blood pressure
+* Kidney problems
+* Liver problems
+* Heart attack or stroke (increased risk with long-term use or high doses)
+
+
+**6. Pregnancy & Lactation:**
+
+Ibuprofen should be avoided during the third trimester of pregnancy.  Use during the first and second trimesters should only be after consulting a doctor.  Small amounts of ibuprofen may pass into breast milk, but the risks are generally considered low.  However, it's always best to consult a doctor before taking ibuprofen while breastfeeding.
+
+
+**7. Precautions & Warnings:**
+
+* **Allergies:**  Do not use if you are allergic to ibuprofen or other NSAIDs.
+* **Stomach problems:**  Use with caution if you have a history of ulcers, stomach bleeding, or other stomach problems.
+* **Heart problems:**  Use with caution if you have heart disease, high blood pressure, or high cholesterol.
+* **Kidney problems:**  Use with caution if you have kidney disease.
+* **Liver problems:**  Use with caution if you have liver disease.
+* **Asthma:**  Ibuprofen can trigger asthma attacks in some people.
+* **Older adults:**  Older adults are more sensitive to the side effects of ibuprofen.
+* **Children under 6 months:**  Ibuprofen is generally not recommended for children under 6 months old.
+
+**8. Overdose Effects:**
+
+Ibuprofen overdose can cause nausea, vomiting, stomach pain, dizziness, drowsiness, and confusion.  In severe cases, it can lead to seizures, coma, and death.  Seek immediate medical attention if an overdose is suspected.
+
+
+**9. Storage Conditions:**
+
+Store ibuprofen at room temperature away from moisture and heat.
+
+
+**10. Medicine Brand Names:**
+
+Many brand names exist, but some common examples include Advil, Motrin, Midol (often contains ibuprofen among other ingredients).  The specific brand names available will vary by location and pharmacy.  Generic ibuprofen is also widely available.
+
+
+**Disclaimer:** This information is for general knowledge and does not constitute medical advice.  Always consult a doctor or pharmacist before taking any medication, especially if you have pre-existing health conditions or are taking other medications.  This information is not exhaustive and may not include all possible interactions or side effects.  Always refer to the medication's package insert for complete information.

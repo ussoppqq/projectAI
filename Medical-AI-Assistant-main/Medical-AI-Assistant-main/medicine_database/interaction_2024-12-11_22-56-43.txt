@@ -1,0 +1,88 @@
+User Input:
+Search By: generic, Name: ibuprofen, Country: United States
+
+Response:
+**1. Indications:**
+
+Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce fever and treat mild to moderate pain.  Its uses include:
+
+* Relief of pain from headaches, menstrual cramps, muscle aches, back pain, toothaches, and the common cold.
+* Reduction of fever.
+* Treatment of osteoarthritis and rheumatoid arthritis (in higher doses, usually requiring a prescription).
+
+
+**2. Pharmacology:**
+
+Ibuprofen works by inhibiting the production of prostaglandins, hormone-like substances in the body that cause inflammation, pain, and fever.  It does this by blocking the enzyme cyclooxygenase (COX), specifically COX-1 and COX-2, although it has more of an effect on COX-1.
+
+
+**3. Dosage & Administration:**
+
+**Adults:** The usual adult dose is 200-400 mg every 4-6 hours as needed, not to exceed 1200 mg per day.  Higher doses may be used for arthritis, but only under a doctor's supervision.
+
+**Children:**  Dosage for children depends on their weight and age. It's crucial to follow the instructions on the product label or consult a doctor or pharmacist.  Never give ibuprofen to children under 6 months without consulting a doctor.  Liquid formulations are usually recommended for children.
+
+**Note:**  This information is for general guidance only.  Always follow the dosage instructions provided by your doctor or on the product label.
+
+
+**4. Interaction:**
+
+Ibuprofen can interact with several medications and substances, including:
+
+* **Other NSAIDs:** Increased risk of bleeding and stomach ulcers.
+* **Blood thinners (anticoagulants):** Increased risk of bleeding.
+* **Corticosteroids:** Increased risk of stomach ulcers and bleeding.
+* **Lithium:** Can increase lithium levels in the blood.
+* **ACE inhibitors:** May reduce the effectiveness of ACE inhibitors.
+* **Diuretics:** May reduce the effectiveness of diuretics.
+* **Alcohol:** Increased risk of stomach irritation and bleeding.
+
+
+**5. Side Effects:**
+
+**Common side effects:**  Nausea, heartburn, stomach pain, diarrhea, constipation, dizziness, drowsiness, headache.
+
+**Serious side effects:**  These are rare but can be life-threatening.  Seek immediate medical attention if you experience:
+
+* Allergic reactions (rash, itching, swelling, difficulty breathing)
+* Severe stomach pain
+* Black, tarry stools
+* Bloody vomit
+* Jaundice (yellowing of the skin or eyes)
+* High blood pressure
+* Heart failure
+* Kidney problems
+* Liver problems
+
+
+**6. Pregnancy & Lactation:**
+
+Ibuprofen should be avoided during the late stages of pregnancy (third trimester) due to potential risks to the mother and baby. In early pregnancy, it is generally considered safe but it's essential to consult with a healthcare professional.  Small amounts of ibuprofen may pass into breast milk, so it’s advisable to consult a doctor if breastfeeding.
+
+
+**7. Precautions & Warnings:**
+
+* **Allergies:**  Do not take ibuprofen if you are allergic to ibuprofen, aspirin, or other NSAIDs.
+* **Stomach ulcers:** Ibuprofen can worsen stomach ulcers and increase the risk of bleeding.
+* **Kidney disease:** Ibuprofen can worsen kidney function in individuals with kidney problems.
+* **Heart disease:** Ibuprofen can increase the risk of heart attack and stroke in some individuals.
+* **Asthma:** Ibuprofen can trigger asthma attacks in susceptible individuals.
+* **Elderly:** Elderly individuals are more susceptible to side effects.
+
+
+**8. Overdose Effects:**
+
+Ibuprofen overdose can lead to nausea, vomiting, stomach pain, drowsiness, dizziness, confusion, and even more serious complications affecting the kidneys, liver, and cardiovascular system.  Seek immediate medical attention if you suspect an overdose.
+
+
+**9. Storage Conditions:**
+
+Store ibuprofen at room temperature, away from moisture and heat. Keep it out of reach of children.
+
+
+**10. Medicine Brand Names:**
+
+There are many brand name versions of ibuprofen available in the United States. Some examples include Advil, Motrin, and others.  The active ingredient will be listed as ibuprofen on the label.
+
+
+**Disclaimer:** This information is for general knowledge and does not constitute medical advice. Always consult with a healthcare professional before starting or changing any medication, especially if you have underlying health conditions or are taking other medications.  This is not an exhaustive list of all possible interactions or side effects.  Always read the product label carefully.

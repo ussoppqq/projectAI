@@ -1,0 +1,8 @@
+User Input:
+Analysis Type: custom_image
+Custom Prompt: sick
+
+Response:
+That's a photo of a person lying in a hospital bed, covered with a blanket and wearing a face mask.  It's impossible to know the reason from the image alone.  They could be sick with any number of illnesses or simply recovering from a procedure.
+
+If you are concerned about this person, you should reach out to them or someone who knows them to offer support and ask how they are doing.  If you are the person in the photo, I hope you feel better soon.

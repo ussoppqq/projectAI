@@ -1,0 +1,91 @@
+User Input:
+Search By: generic, Name: ibuprofen, Country: United States
+
+Response:
+**1. Indications:**
+
+Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce fever.  It's commonly used for:
+
+* Mild to moderate pain, such as headaches, muscle aches, menstrual cramps, backache, toothache, and the common cold.
+* Fever reduction.
+
+**2. Pharmacology:**
+
+Ibuprofen works by inhibiting the production of prostaglandins, which are substances in the body that cause inflammation, pain, and fever.  It reduces inflammation by blocking the cyclooxygenase (COX) enzymes, COX-1 and COX-2, responsible for prostaglandin synthesis.  The exact mechanism by which it reduces fever is not fully understood but is likely related to its effect on the hypothalamus, the part of the brain that regulates body temperature.
+
+**3. Dosage & Administration:**
+
+**Adults:** The usual adult dose is 200-400 mg every 4-6 hours as needed, not to exceed 1200 mg per day.  Always follow the directions on the label or as directed by a doctor.
+
+**Children:** The dosage for children varies significantly based on age and weight.  **Never give ibuprofen to a child without first consulting a doctor or pharmacist.**  Over-the-counter formulations for children usually specify the appropriate dosage based on weight.
+
+**4. Interactions:**
+
+Ibuprofen can interact with many other medications, including:
+
+* **Other NSAIDs:** Taking ibuprofen with other NSAIDs (like naproxen or aspirin) increases the risk of side effects.
+* **Blood thinners (anticoagulants):** Ibuprofen can increase the risk of bleeding.
+* **ACE inhibitors and angiotensin receptor blockers (ARBs):**  May reduce the effectiveness of these blood pressure medications.
+* **Lithium:** Ibuprofen can increase lithium levels in the blood.
+* **Methotrexate:** Ibuprofen can increase the toxicity of methotrexate.
+* **Corticosteroids:** Increased risk of stomach ulcers and bleeding.
+* **Alcohol:** Increases the risk of stomach upset and bleeding.
+
+This is not an exhaustive list, and other interactions are possible.  Always inform your doctor or pharmacist of all medications and supplements you are taking.
+
+
+**5. Side Effects:**
+
+**Common side effects:**
+
+* Upset stomach
+* Nausea
+* Heartburn
+* Diarrhea
+* Constipation
+* Dizziness
+* Headache
+
+
+**Serious side effects (require immediate medical attention):**
+
+* Allergic reactions (rash, hives, swelling, difficulty breathing)
+* Severe stomach pain
+* Bloody or black stools
+* Vomiting blood
+* Jaundice (yellowing of the skin or eyes)
+* Severe headache or vision changes
+* High blood pressure
+* Heart attack or stroke
+
+
+**6. Pregnancy & Lactation:**
+
+Ibuprofen should be avoided during the third trimester of pregnancy.  Use during the first and second trimesters should only be under the guidance of a doctor.  Small amounts of ibuprofen may pass into breast milk.  Consult a doctor before using ibuprofen if you are pregnant or breastfeeding.
+
+
+**7. Precautions & Warnings:**
+
+* **People with a history of stomach ulcers or bleeding:** Ibuprofen can increase the risk of ulcers and bleeding.
+* **People with heart disease, high blood pressure, or kidney disease:** Ibuprofen may worsen these conditions.
+* **People with asthma:** Ibuprofen can trigger asthma attacks in some individuals.
+* **Older adults:** Older adults are more likely to experience side effects from ibuprofen.
+* **Children under 6 months:** Ibuprofen should generally not be given to infants under 6 months old without consulting a doctor.
+
+
+**8. Overdose Effects:**
+
+Ibuprofen overdose can cause serious complications, including nausea, vomiting, stomach pain, drowsiness, confusion, and seizures.  In severe cases, it can lead to kidney failure, heart problems, and even death.  Seek immediate medical attention if an overdose is suspected.
+
+
+**9. Storage Conditions:**
+
+Store ibuprofen at room temperature, away from moisture and heat.
+
+
+**10. Medicine Brand Names:**
+
+Many brand names exist for ibuprofen, including but not limited to Advil, Motrin, and Medipren.  Numerous generic versions are also available.
+
+
+**Disclaimer:** This information is for general knowledge and does not constitute medical advice.  Always consult a doctor or pharmacist before starting any new medication, including ibuprofen, especially if you have any underlying health conditions or are taking other medications.  This information is not exhaustive and does not cover all possible interactions or side effects.

@@ -1,0 +1,5 @@
+User Input:
+apakah benar demam bisa menular
+
+Response:
+Tidak, demam itu sendiri tidak menular.  Demam adalah *gejala* suatu penyakit, bukan penyakit itu sendiri.  Apa yang menular adalah *penyebab* demam, seperti virus atau bakteri.  Jadi, seseorang bisa tertular virus flu (yang menyebabkan demam), tetapi tidak tertular demamnya secara langsung.

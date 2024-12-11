@@ -1,0 +1,20 @@
+User Input:
+Search By: brand, Name: paratusin, Country: N/A
+
+Response:
+I cannot find a widely recognized or registered medicine with the brand name "Paratusin" in standard medical databases.  It's possible that:
+
+* **The spelling is incorrect:** There might be a slight misspelling in the brand name.
+* **It's a regional or locally marketed drug:** The medicine might only be available in a specific country or region, not included in global databases.
+* **It's an outdated or discontinued product:** The medicine may have been discontinued by the manufacturer.
+* **It's not a legitimate medication:**  It's crucial to verify the legitimacy of any medication before use.
+
+
+To get accurate information, you need to:
+
+* **Double-check the spelling:** Ensure the name is correctly spelled.
+* **Provide the country or region where you encountered the medication:** This will help narrow the search.
+* **Consult a pharmacist or doctor:**  They can provide the most accurate and up-to-date information about any medication, including identifying the medicine if you can provide more details such as the packaging or manufacturer.
+
+
+Without reliable information about the specific medication, I cannot provide the details requested in your prompt (Indications, Pharmacology, etc.).  Providing inaccurate information about medication is dangerous. Please seek professional medical advice to clarify the medicine's identity and proper use.

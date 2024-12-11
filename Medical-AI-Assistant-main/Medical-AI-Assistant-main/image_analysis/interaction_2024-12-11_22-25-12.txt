@@ -1,0 +1,6 @@
+User Input:
+Analysis Type: skin_cancer
+Custom Prompt: 
+
+Response:
+As a dermatologist, I cannot analyze the provided image.  The image appears to be a screenshot from a video game (Minecraft), showing a blocky, pixelated environment and in-game elements like a health bar and inventory. There are no skin lesions or other dermatological features present in the image.  My expertise is limited to the analysis and diagnosis of human skin conditions, and this image does not contain any relevant information for a dermatological assessment.  Therefore, I cannot provide a detailed report, list possible conditions, or give recommendations.

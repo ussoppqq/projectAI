@@ -1,0 +1,6 @@
+User Input:
+Analysis Type: xray_description
+Custom Prompt: 
+
+Response:
+This is not an X-ray image. It is a 3D architectural rendering of a multi-story building.  Therefore, a radiology report is not applicable.  A radiology report analyzes medical images to detect disease or injury. This image is of an architectural design and does not contain any medical information.
